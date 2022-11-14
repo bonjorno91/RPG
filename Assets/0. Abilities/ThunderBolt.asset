@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8db360d016194b079c1ca4568c8b57d8, type: 3}
+  m_Name: ThunderBolt
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 0}
+  <Name>k__BackingField: New Ability
+  <Description>k__BackingField: New Ability Description
+  <Hotkey>k__BackingField: 97
+  <Cooldown>k__BackingField: 0
+  _resources: []
+  _stats: []
+  _casterValidator:
+    _includeTags: 0
+    _excludeTags: 0
+    _validators: []
+  _targetValidator:
+    _includeTags: 0
+    _excludeTags: 0
+    _validators: []
